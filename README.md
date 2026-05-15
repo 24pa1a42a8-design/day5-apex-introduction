@@ -178,7 +178,7 @@ or bulk processing is required!
 
 ## Screenshots
 ![accountutils](accountutils.png)
-![stringlisttest](string-list-test.png)
+![stringlisttest](stringlisttest.png)
 
 
 **Date:** 15 May 2026
