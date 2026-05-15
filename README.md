@@ -177,8 +177,8 @@ or bulk processing is required!
 ---
 
 ## Screenshots
-![apex class](apex-class.png)
-![string list](string-list-test.png)
+![accountutils](accountutils.png)
+![stringlisttest](string-list-test.png)
 
 
 **Date:** 15 May 2026
